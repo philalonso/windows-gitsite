@@ -3,7 +3,11 @@
 
 /**
  * @file
+<<<<<<< HEAD
  * Demonstrates use of the Form API. This change will create a conflict. 
+=======
+ * Demonstrates use of the Form API. This is a change we want to keep.
+>>>>>>> 40116fd81011b5a3bb5377863f91cb6a46eedbe1
  *
  * For a full list of elements and attributes, see:
  * http://api.drupal.org/api/drupal/developer--topics--forms_api_reference.html/7
